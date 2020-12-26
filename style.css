@@ -1,0 +1,59 @@
+.background {
+    background: url('./bg.jpg') no-repeat center fixed;
+    background-size: 100% 100%;
+    height: 100%;
+    position: absolute; 
+    width: 100%;
+}
+
+#ph1 {
+  width: 200px;
+  height: 135px;
+  transform: rotate(30deg);
+  /* margin-left: 825px;
+  margin-top: 125px; */
+  top: 125px;
+  left: 700px;
+  position: absolute;
+}
+
+#ph2 {
+  width: 125px;
+  height: 175px;
+  transform: rotate(-25deg);
+  top: 125px;
+  left: 900px;
+  position: absolute;
+}
+
+ul li #ph1:focus{
+  width: 460px;
+  height: 325px; 
+  top: 200px;
+  left: 700px;
+  transform: rotate(0deg);
+  position: absolute;
+}
+
+ul li #ph2:focus{
+  width: 300px;
+  height: 440px; 
+  top: 125px;
+  left: 950px;
+  transform: rotate(0deg);
+  position: absolute;
+}
+
+.city {
+  font-family: "Great Vibes";
+  font-size: 40px;
+  color: azure;
+  top: 90px;
+  left: 40px;
+  position: absolute;
+  transform: rotate(-20deg);
+}
+
+
+
+
