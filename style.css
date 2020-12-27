@@ -7,23 +7,21 @@
 }
 
 #ph1 {
-  width: 10%;
-  height: 135%;
-  transform: rotate(30deg);
-  /* margin-left: 825px;
-  margin-top: 125px; */
-  top: 125px;
-  left: 700px;
-  position: absolute;
+    width: 31vh;
+    height: 21vh;
+    transform: rotate(30deg);
+    top: 15vh;
+    left: 100vh;
+    position: absolute;
 }
 
 #ph2 {
-  width: 125px;
-  height: 175px;
-  transform: rotate(-25deg);
-  top: 125px;
-  left: 900px;
-  position: absolute;
+    width: 17vh;
+    height: 26vh;
+    transform: rotate(-25deg);
+    top: 15vh;
+    left: 114vh;
+    position: absolute;
 }
 
 ul li #ph1:focus{
